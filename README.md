@@ -2,4 +2,8 @@
 
 Lean los apuntes de Tecnología 
 
+## Alumnos miembros de la Organización:
+
+- 
+
 .....
