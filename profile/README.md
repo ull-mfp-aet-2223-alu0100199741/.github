@@ -4,6 +4,17 @@ Lean los apuntes de Tecnología
 
 ## Alumnos miembros de la Organización:
 
-- 
+- Alejandro Febles Casquero
+- David Lázaro Febles
+
+## Tareas asignadas al grupo
+
+**1ª: Leer artículo**
+
+**2ª: Hacer tabla con el horario de clases**
+
+
+
+
 
 .....
