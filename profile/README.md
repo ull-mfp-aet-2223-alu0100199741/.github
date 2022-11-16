@@ -4,6 +4,8 @@ Lean los apuntes de Tecnología
 
 ## Alumnos miembros de la Organización:
 
+### Nombre del grupo: **Grupo FHL**
+
 - Alejandro Febles Casquero
 - David Lázaro Febles
 
