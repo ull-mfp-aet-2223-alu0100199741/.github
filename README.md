@@ -9,6 +9,7 @@ Lean los apuntes de Tecnología
 **Lista de tareas que vamos a hacer en clase**
 
   - 1ª Leer un artículo
-  -2ª Crear una tabla
 
   
+  -2ª Crear una tabla
+
