@@ -2,18 +2,11 @@
 
 Lean los apuntes de Tecnología 
 
-## Alumnos miembros de la Organización:
+**Por ahora en esta clase vamos a hablar de cómo moverse por Github**
 
-### Nombre del grupo: **Grupo FHL**
-
-- Alejandro Febles Casquero
-- David Lázaro Febles
-
-## Tareas asignadas al grupo
-
-**1ª: Leer artículo**
-
-**2ª: Hacer tabla con el horario de clases**
+```dif
+- es un poco complicado!
+```
 
 
 
