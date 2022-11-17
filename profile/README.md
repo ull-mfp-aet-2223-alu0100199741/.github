@@ -4,10 +4,13 @@ Lean los apuntes de Tecnología
 
 **Por ahora en esta clase vamos a hablar de cómo moverse por Github**
 
-```dif
+```diff
 - es un poco complicado!
 ```
 
+```fix
+!pero vamos a intentarlo!
+```
 
 
 
