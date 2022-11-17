@@ -8,7 +8,7 @@ Lean los apuntes de Tecnología
 - es un poco complicado!
 ```
 
-
+![Foto](descarga.jpg)
 
 
 
