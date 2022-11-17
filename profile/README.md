@@ -8,11 +8,10 @@ Lean los apuntes de Tecnología
 - es un poco complicado!
 ```
 
-```
+```json
 pero vamos a intentarlo
 ```
 
 
 
 
-.....
