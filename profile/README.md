@@ -8,7 +8,7 @@ Lean los apuntes de Tecnología
 - es un poco complicado!
 ```
 
-```json
+```phyton
 pero vamos a intentarlo
 ```
 
