@@ -8,8 +8,8 @@ Lean los apuntes de Tecnología
 - es un poco complicado!
 ```
 
-```fix
-!pero vamos a intentarlo!
+```
+pero vamos a intentarlo
 ```
 
 
