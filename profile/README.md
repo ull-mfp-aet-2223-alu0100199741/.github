@@ -8,9 +8,7 @@ Lean los apuntes de Tecnología
 - es un poco complicado!
 ```
 
-```phyton
-pero vamos a intentarlo
-```
+
 
 
 
