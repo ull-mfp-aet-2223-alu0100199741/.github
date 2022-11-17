@@ -11,5 +11,5 @@ Lean los apuntes de Tecnología
   - 1ª Leer un artículo
 
 
-   -2ª Crear una tabla
+  - 2ª Crear una tabla
 
