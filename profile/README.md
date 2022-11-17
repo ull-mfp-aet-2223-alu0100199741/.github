@@ -8,5 +8,5 @@ Lean los apuntes de Tecnología
 - es un poco complicado!
 ```
 
-|[foto](/profile/logos/descarga.jpg)
+|![foto](/profile/logos/descarga.jpg)
 
