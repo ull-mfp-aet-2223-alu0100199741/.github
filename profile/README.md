@@ -8,10 +8,5 @@ Lean los apuntes de Tecnología
 - es un poco complicado!
 ```
 
-![robot](3396619316_ac8aa812ab_b.jpg)
-
-
-
-
-
+|[foto](/profile/logos/descarga.jpg)
 
